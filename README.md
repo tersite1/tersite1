@@ -10,11 +10,7 @@
 
 <h3 align="center">🛠 Tools & Tech Stack 🛠</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LINUX-white.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
-  <img src="https://img.shields.io/badge/ROS-wgite.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+
 
 
 <div align="center">
@@ -23,11 +19,20 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/LINUX-white.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
+  <img src="https://img.shields.io/badge/ROS-wgite.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/qgis-white.svg?style=for-the-badge&logo=qgis&logoColor=#589632" />&nbsp
-  
+
+
+<br>
 </div>
 
 <div align="center">
