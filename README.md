@@ -3,9 +3,6 @@
   <img src="https://github.com/tersite1/tersite1/assets/160453556/be9d49ee-872c-4c3f-8997-7bce125957c9" />
 </div>
 
-
-
-
 <br>
 
 <h3 align="center">🛠 Tools & Tech Stack 🛠</h3>
@@ -40,7 +37,9 @@
   <img src="https://img.shields.io/badge/qgis-white.svg?style=for-the-badge&logo=qgis&logoColor=#589632" />&nbsp
   <img src="https://img.shields.io/badge/revit-white.svg?style=for-the-badge&logo=autodeskrevit&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/autocad-white.svg?style=for-the-badge&logo=autocad&logoColor=red" />&nbsp
-  <img src="https://img.shields.io/badge/blender-#236192.svg?style=for-the-badge&logo=blender&logoColor=#E87D0D" />&nbsp
+
+<br>
+<br>
 
 
 <br>
