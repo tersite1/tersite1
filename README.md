@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/qgis-white.svg?style=for-the-badge&logo=qgis&logoColor=#589632" />&nbsp
   <img src="https://img.shields.io/badge/revit-white.svg?style=for-the-badge&logo=autodeskrevit&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/autodeskcad-white.svg?style=for-the-badge&logo=autodeskcad&logoColor=#E51050" />&nbsp
+  <img src="https://img.shields.io/badge/autocad-white.svg?style=for-the-badge&logo=autocad&logoColor=#E51050" />&nbsp
   <img src="https://img.shields.io/badge/blender-#236192.svg?style=for-the-badge&logo=blender&logoColor=#E87D0D" />&nbsp
 
 
