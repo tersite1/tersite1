@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/LINUX-white.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
   <img src="https://img.shields.io/badge/ROS-wgite.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
