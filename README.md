@@ -62,7 +62,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/min-seok-jang-a890312b1/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-1EBC8F?style=for-the-badge&logo=linkedin&logoColor=#0A66C2" />&nbsp
   </a>
   <a href="mailto:itcouldbe0@yonsei.ac.kr">
     <img
