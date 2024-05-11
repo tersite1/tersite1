@@ -3,6 +3,10 @@
   <img src="https://github.com/tersite1/tersite1/assets/160453556/be9d49ee-872c-4c3f-8997-7bce125957c9" />
 </div>
 
+
+I do everything I can do.
+
+
 <br>
 
 <h3 align="center">🛠 Tools & Tech Stack 🛠</h3>
