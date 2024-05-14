@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/LINUX-white.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
   <img src="https://img.shields.io/badge/ROS-white.svg?style=for-the-badge&logo=ros&logoColor=navy" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/blender-1572B6.svg?style=for-the-badge&logo=blender&logoColor=orange" />&nbsp
   
 
 </div>
@@ -45,7 +46,7 @@
   <img src="https://img.shields.io/badge/qgis-white.svg?style=for-the-badge&logo=qgis&logoColor=#589632" />&nbsp
   <img src="https://img.shields.io/badge/revit-white.svg?style=for-the-badge&logo=autodeskrevit&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/autocad-white.svg?style=for-the-badge&logo=autocad&logoColor=red" />&nbsp
-  <img src="https://img.shields.io/badge/blender-1572B6.svg?style=for-the-badge&logo=blender&logoColor=orange" />&nbsp
+  
 
 <br>
 <br>
