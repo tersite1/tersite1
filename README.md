@@ -34,7 +34,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/LINUX-white.svg?style=for-the-badge&logo=linux&logoColor=#FCC624" />&nbsp
   <img src="https://img.shields.io/badge/ROS-white.svg?style=for-the-badge&logo=ros&logoColor=navy" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/blender-1572B6.svg?style=for-the-badge&logo=blender&logoColor=orange" />&nbsp
   
 
