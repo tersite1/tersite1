@@ -2,10 +2,10 @@
 <div align="center">
   <img src="https://github.com/tersite1/tersite1/assets/160453556/839e0b29-a9b6-4e28-8189-fd0134cc3bc8" />
 
-'''
+```
 I do everything I can do.
-'''
-<br>
+```
+
 
 <h3 align="center">🛠 Tools & Tech Stack 🛠</h3>
 
