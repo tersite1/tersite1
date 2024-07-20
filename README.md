@@ -42,12 +42,18 @@ I do everything I can do.
   <img src="https://img.shields.io/badge/autocad-white.svg?style=for-the-badge&logo=autocad&logoColor=red" />&nbsp;
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/colmap-2C2C2C.svg?style=for-the-badge&logo=colmap&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/meshlab-0078d7.svg?style=for-the-badge&logo=meshlab&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/cloudcompare-239120.svg?style=for-the-badge&logo=cloudcompare&logoColor=white" />&nbsp;
+</div>
+
 <br>
 <br>
 
 
 <div align="center">
-  
+ 
   <a href="https://soundcloud.com/lovemedo083">
     <img src="https://img.shields.io/badge/SoundCloud-FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white" />&nbsp;
   </a>
