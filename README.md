@@ -5,8 +5,10 @@
   <h2>🌐 <a href="https://tersite1.github.io" target="_blank">tersite1.github.io</a> 🌐</h2>
 
   <div></div>
+  
 
   <pre>
+    
   I do everything I can do.
   </pre>
 </div>
@@ -76,3 +78,6 @@
     <img src="https://img.shields.io/badge/itcouldbe0@yonsei.ac.kr-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
+
+
+![tersite1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tersite1&show_icons=true&theme=dracula)
