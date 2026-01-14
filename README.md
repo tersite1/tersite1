@@ -16,7 +16,8 @@
 ---
 contact : minsukjang@kaist.ac.kr 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tersite1&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tersite1&show_icons=true&include_all_commits=false&count_private=false)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tersite1&layout=compact)
 
